@@ -1,4 +1,4 @@
 update:cdn
 kab:312
 time:3000
-method:nsprocess
+method:none
